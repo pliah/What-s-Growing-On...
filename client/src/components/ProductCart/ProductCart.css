@@ -1,0 +1,27 @@
+
+.btn-black{
+    text-transform: capitalize;
+    font-size: 0.8rem !important;
+    color: white; 
+    border-radius: 0 !important;
+    border: 0.1rem solid black !important
+  }
+  .btn-black:hover{
+    background: black;
+    color:white;
+  }
+  .col-10{
+    font-family: Bradley Hand ITC;
+    font-weight: lighter;
+    font-size: 2.5vh;
+  }
+  .mx-auto {
+    margin-right: auto!important;
+    margin-left: auto!important;
+    font-size: initial;
+}
+.mx-auto {
+  margin-right: auto!important;
+  margin-left: auto!important;
+  font-family: 'Raleway-Regular';
+}

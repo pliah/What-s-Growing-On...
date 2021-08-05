@@ -1,0 +1,17 @@
+
+.contact-text{
+    font-family:"Raleway-Bold" !important;
+    color:#552244 !important;
+}
+.font-text {
+    font-family: "Raleway-Regular";
+    font-size: 2.5vh;
+    font-style: italic;
+    color:#8f3b73 !important;
+ }
+ .text-det{
+   font-family:"Raleway-Bold" !important;
+   color:#552244 !important;
+   line-height:90%;
+   margin-top: 10px;
+ }

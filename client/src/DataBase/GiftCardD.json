@@ -1,0 +1,29 @@
+
+{
+  "GiftCardD": [
+    {
+      "id": "1g",
+      "title": "Flowers and chocolate",
+      "price": 30,
+      "image": "flowersChoclate.jpg",
+      "amount": 0,
+      "text": "Both delicious and beautiful !!"
+    },
+    {
+      "id": "2g",
+      "title": "Flower teddy bears",
+      "price": 70,
+      "image": "flowerbear.jpg",
+      "amount": 0,
+      "text": "it's so easy to please someone you love"
+    },
+    {
+      "id": "3g",
+      "title": "Upscale bouquet",
+      "price": 20,
+      "image": "flowers.jpg",
+      "amount": 0,
+      "text": "Both delicious and beautiful !!"
+    }
+  ]
+}

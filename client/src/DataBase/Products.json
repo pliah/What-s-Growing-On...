@@ -1,0 +1,407 @@
+{
+  "Products": [
+    {
+      "id": "1",
+      "title": "Digitalis Purpurea - Winter Annuals Flowers",
+      "price": "7",
+      "image": "1.jpg",
+      "amount": 9,
+      "description": "The Digitalis Purpurea has a defined life cycle of two years:\nin the first year the plant develops only a rosette of leaves and towards the\nspring of the second year it develops a stem and an inflorescence pillar and grows\nup to a height of 1.2 meters at most. In Israel, the Digitalis Purpurea is mainly known as an\nornamental plant due to its flowers in shades of pink - oval,\nbut the main contribution of the crimson thimble is in its great medical value."
+    },
+    {
+      "id": "2",
+      "title": "salpiglossis sinuata - Winter Annuals Flowers",
+      "price": "5",
+      "image": "2.jpg",
+      "amount": 8,
+      "description": "Winter-spring season\nBlooms in spring in shades of red, yellow and brown\nFull sun or half a sunny day\nHeight: 60-50 cm\nPlanting intervals: 30 cm\n11 seedlings per square meter\nA delicate plant and difficult to grow"
+    },
+    {
+      "id": "3",
+      "title": "brassica oleracea - Winter Annuals Flowers ",
+      "price": "4.90",
+      "description": "Winter seasonal herb. Cabbage shape but colorful in shades of purple pink and white. Very ornate throughout the winter until it starts to bloom. When it starts to bloom it is best to lower the flowers while they are thickening because the shape of the whole plant changes and it starts the dehydration process. Suitable for the whole country in winter in full sun and moderate watering.",
+      "image": "3.jpg",
+      "amount": 10
+    },
+    {
+      "id": "4",
+      "title": "A.majus - Winter Annuals Flowers ",
+      "price": "11.96",
+      "description": "The Aryan Pharynx (also spelled Aryan; scientific name: Antirrhinum) is a genus in the pharynx family (formerly associated with the pharyngeal family). The genus is characterized by herbaceous plants with flowers reminiscent in the shape of the mouth of an animal, hence its name.Cultivated species of the flower also grow in different colors - white, red, pink, yellow and orange. Some ornamental varieties are perennial and bloom throughout the year.",
+      "image": "4.jpg",
+      "amount": 10
+    },
+    {
+      "id": "5",
+      "title": "Viola - Winter Annuals Flowers ",
+      "price": "4",
+      "description": "Viola is an ornamental plant that blooms in winter. It is an annual plant that grows to a height of 10-20 cm and is found in the cold regions of Europe, where it is a perennial plant. The flower has five soft petals with a velvety texture, a few centimeters in size and up to 12 cm, with large flowers And plants with small flowers.",
+      "image": "5.jpg",
+      "amount": 10
+    },
+    {
+      "id": "6",
+      "title": "Petunia - Summer Annuals Flowers",
+      "price": "5",
+      "description": "The petunia is an annual or biennial herb, with broad, sticky leaves. Its stems are soft and usually do not reach a height of more than 20-30 cm, but extend to the ground and form a kind of 'cushions' or dense area cover. The bloom is abundant and lasts a long time, from early spring to late summer. Size 3-8 cm and in a variety of colors, such as white and cream, shades of red, pink, blue, purple and purple.",
+      "image": "6.jpg",
+      "amount": 10
+    },
+    {
+      "id": "7",
+      "title": "echinacea purpurea - Summer Annuals Flowers",
+      "price": "16",
+      "description": "Perennial, usually used as a seasonal summer-autumn blooms in pink or white in summer with a prominent dark center Full sun or half a sunny day Suitable for harvesting Height: 60-40 cm Planting intervals: 30 cm Medium watering Medicinal plant",
+      "image": "7.jpg",
+      "amount": 10
+    },
+    {
+      "id": "8",
+      "title": "Cosmos - Summer Annuals Flowers",
+      "price": "6",
+      "description": "Cosmos feathered 'Sonata', a summer seasonal herbaceous plant, with a delicate and upright appearance. Has a large flower in shades of pink and white. The leaves are feathery and delicate with an airy appearance. It is recommended to prune a dry bloom to extend the flowering period. Blooms in spring, summer and autumn.",
+      "image": "8.jpg",
+      "amount": 10
+    },
+    {
+      "id": "9",
+      "title": "Salvia Splendens - Summer Annuals Flowers",
+      "price": "7",
+      "description": "A small herbaceous shrub that is green until it looks its best in spring and autumn. The rest of the time some of its branches and leaves dry out and the bloom is small. Dark green leaves and there is also a variety of green and yellow leaves. When feeling good it is very common to bloom in upright clusters upwards above the leaves. Large and dense clusters in a variety of colors in shades of white, red and purple and all their shades. Its uniqueness is that it blooms profusely in partial shade. A plant worth pruning and renewing. Sows itself in the vicinity of mother plants and the sprouts also grow and bloom so that a flower bed can be maintained for a long time without replanting. Suitable for the whole country and needs regular watering. Sometimes used as a summer season.",
+      "image": "9.jpg",
+      "amount": 10
+    },
+    {
+      "id": "10",
+      "title": "lridaceae - Herbaceous Perennials",
+      "price": "7",
+      "description": "A typical flower with six bracts - three outer and curved leaves (often striped or dotted) and three upright inner bracts. In the center of the flower there is a petiole split into three convex sections; Each section carries a scar from below and a handful of pollen. If so the iris flower has a total of three stamens, a feature common to all members of the iris family. This family has a number of other varieties that have an iris-like flower, including lunch, diets and more.",
+      "image": "10.jpg",
+      "amount": 10
+    },
+    {
+      "id": "11",
+      "title": "Bignonia - Herbaceous Perennials",
+      "price": "8",
+      "description": "Perennial plant, blooms most of the year in pink, red and white.Especially suitable for shady places, suffers from excess irrigation so it should be noted that it grows in well-drained soil. Height: 20-40 cm Planting intervals: 20-30 cmLight conditions: half shade to full and light shade Watering: Medium Size: 12 cm diameter flower pot",
+      "image": "11.jpg",
+      "amount": 10
+    },
+    {
+      "id": "12",
+      "title": "Retema Reatam - Shrubs",
+      "price": "15",
+      "description": "Rotem Hamidbar is a perennial shrub, common mainly in the south of the country, but also inhabits the coastal area. For most of the year it is bare and leaves long, slender branches. The peak will be reached in the winter when the shrub is covered with a lush white bloom that spreads an intoxicating scent into the distance. The average height of Rotem shrubs is about a meter and a half. But mature plants that grow in places where there is more water can reach a height of 4-3 meters.Rotem is a deep root. The roots penetrate deep into the soil and utilize water from the deep layers when the water in the upper layers has long since dried up. The plant's ability to utilize this water is what allows it to be green all year round.",
+      "image": "12.jpg",
+      "amount": 10
+    },
+    {
+      "id": "13",
+      "title": "Homalocladium Platycladum - Shrubs",
+      "price": "17",
+      "description": "A special, perennial shrub, branched, with stems in a light and fresh green hue, flat and long, with multiple decorative chapters along their length. The plant is erect, has a wild appearance, the flat stems are sent everywhere. The rash is insignificant, tiny, light pink, hatches from the stems, and forms red fruits. The leaves are small and simple, growing only on new stems and remaining on the stem for a short time only. The plant shape is sculptural and suitable and pots and tropical areas in the garden. The plant can be pruned for design and thickening purposes.",
+      "image": "13.jpg",
+      "amount": 10
+    },
+    {
+      "id": "14",
+      "title": "Schefflera Plant - Shrubs",
+      "price": "15",
+      "description": "Loves a bright place and also not too strong sun. It is important to plant in an airy and well-drained soil substrate. Sensitive to excess water. Once every two years it should be transferred to a larger pot. No pruning is required, but it is recommended to share one struggle for some time",
+      "image": "14.jpg",
+      "amount": 10
+    },
+    {
+      "id": "15",
+      "title": "Wisteria Sinensis - Vines Flowers",
+      "price": "20",
+      "description": "Belongs to a group of twining climbers, whose stem ends are thin and soft and with which they are wrapped around a plant or inanimate in their path and grow upwards, towards the light. The cluster.",
+      "image": "15.jpg",
+      "amount": 10
+    },
+    {
+      "id": "16",
+      "title": "Pyrostegia Venusta - Vines Flowers",
+      "price": "14",
+      "description": "Climbing shrub, perennial, evergreen. The growth rate of the pine is slow at first but it becomes domineering later. Irrigation - Medium.Height - 8-10 m. Planting intervals - 3-4 m. Light conditions - direct sunlight.The fiery pine blooms in winter. The flowers are bright orange, forming a kind of curtain that hangs and blooms.Treatment - At the beginning of the growth, the shape of the climb should be adjusted, with the help of a support such as a net for climbers.It is advisable to dilute and clean the plant once every 3 years. Pruning can be done in the summer.Climate zones - suitable for all regions of the country, except the mountain region.The plant is sensitive to cold, dryness and salinity.",
+      "image": "16.jpg",
+      "amount": 10
+    },
+    {
+      "id": "17",
+      "title": "Quisqualis Indica - Vines Flowers",
+      "price": "10",
+      "description": "The growth of the Indian alder is slow in the first year or two, but later becomes faster. The Indian alder needs regular and abundant watering, it is sensitive to cold, scorch and salinity but resistant to direct sunlight. Its height ranges from 6-12 meters, its width is over 2 meters and the planting intervals are 2-1.5 meters. It should be planted where there is no gardening activity or in paved surfaces. In good conditions the plant sends spurs and appears in all sorts of places in the garden even a few meters from the main plant. It can be planted next to a fence, wall, pergola or in a large pot on the balcony.",
+      "image": "17.jpg",
+      "amount": 10
+    },
+    {
+      "id": "18",
+      "title": "Geraniums - Vines Flowers",
+      "price": "11",
+      "description": "Nickname: 'Upright Geranium' Geranium family - Geraniaceae Origin: South Africa, horticultural variety Height: 1 meter Planting intervals: 50-40 cm Plant characteristic: Herbaceous perennials Plant description: Shrubs and erect Flowering color: a variety of colors Flowering season : All year roundWater Consumption: Medium Growth Rate: Medium Durability and Sensitivity: Resistant to cold, burn and chalk, sensitive to salinity.",
+      "image": "18.jpg",
+      "amount": 10
+    },
+    {
+      "id": "19",
+      "title": "Hoe - Garden equipment",
+      "price": "30",
+      "description": "A hoe is an ancient agricultural tool used for plowing, digging and tilling the soil in agriculture and horticulture. Its purpose is to move small amounts of soil.Part of its purpose is to control weeds by clearing the area around plants and piling the soil around their base. With its help it is also possible to create shallow ditches and furrows for planting seeds and tubers, and dig in the ground and move while collecting the crop in root vegetables such as potatoes.",
+      "image": "19.jpg",
+      "amount": 10
+    },
+    {
+      "id": "20",
+      "title": "Fertilizer- Garden equipment",
+      "price": "20",
+      "description": "Fertilizers are usually given through the soil - for absorption through the roots of the plants, or spray - fertilization through the leaves. Some fertilizers are organic substances and others are inorganic. The fertilizer can consist of materials found in nature (peat, natural minerals), materials produced artificially in a natural process (compost) or materials produced in an industrial process. Fertilizers are sown to help the plant grow and develop.",
+      "image": "20.jpg",
+      "amount": 10
+    },
+    {
+      "id": "21",
+      "title": "Garden soil - Garden equipment",
+      "price": "30",
+      "description": "DS-65 Hamra soil is very rich in iron oxides from Dashanit. It has a sandy texture, is well ventilated and drains. It has properties that make it a fertile and very comfortable substrate for various crops. Designation:",
+      "image": "21.jpg",
+      "amount": 10
+    },
+    {
+      "id": "22",
+      "title": "Gravel - Garden equipment",
+      "price": "35",
+      "description": "Garden pebbles are a complementary design element, its main use is ground cover, for ornamental ponds, decorative combination in concrete, cladding planters and flower pots and more. Pebbles are natural stones collected in wadis, natural pebbles, pebbles in shades, exist in wonderful abundance and in spectacular colors. Pebbles are concentrated in rock deposits in streams flowing around the world. Pebbles take on a round elliptical shape following repeated contact with water, however, pebbles, stone fragments and stones that are not necessarily round can sometimes be found in the sea. The size of the stone is measured by the degree of sifting in the quarry. In the world of pebbles are found in spectacular colors and at any time more and more types of special and colorful stones are discovered.",
+      "image": "22.jpg",
+      "amount": 10
+    },
+    {
+      "id": "23",
+      "title": "Durban grass - grass",
+      "price": "40",
+      "description": "Durban grass Durban grass is suitable for warm areas and its great advantage is its ability to survive beautifully in shady areas, at least 4 hours of direct sunlight every day. The spur is suitable for private gardens and public areas. The spur retains its color even in winter. And suitable for an environment with basic soil, the maintenance requirements of the spur are not high.",
+      "image": "23.jpg",
+      "amount": 10
+    },
+    {
+      "id": "24",
+      "title": "Altaro grass - grass",
+      "price": "40",
+      "description": "Ideal for many areas in the country, suitable for private gardens, parks and open spaces and in some cases also for golf courses.The altaro can grow in all types of soil, from sand to clayey soil. Also in the wide pH range, from alkaline soil to acidic soil {5.5-8.5}. Altoro has great survivability in dry conditions. But, with prolonged lack of watering (depending on the type of soil) the foliage becomes like straw, despite this it responds nicely to the resumption of watering and rains.",
+      "image": "24.jpg",
+      "amount": 10
+    },
+    {
+      "id": "25",
+      "title": "Passport grass - grass",
+      "price": "40",
+      "description": "Passpelum grass is considered the most beautiful of the warm varieties: it has a dark green color and a thin and delicate texture.The paspalum has the ability to live in very saline areas and can even be irrigated with seawater, but in this case soil washing should be carried out from time to time.Passpel grass can live in areas with poor drainage and even be under water for a relatively long time.",
+      "image": "25.jpg",
+      "amount": 10
+    },
+    {
+      "id": "26",
+      "title": "Maya grass - grass",
+      "price": "40",
+      "description": "Maya grass has a particularly attractive color, and is resistant to shade conditions such as the 'spur'.It can grow in all types of soil, from sandy soil to clayey and wet soil,With a pH of 5.5-8 and high salinity as that of the 'Bermuda', therefore it is also suitable for growing along the beaches.",
+      "image": "26.jpg",
+      "amount": 10
+    },
+    {
+      "id": "27",
+      "title": "Tenpolia grass - grass",
+      "price": "40",
+      "description": "The uniqueness of Tenpolia is its delicate texture, slow growth rate and ability to grow without mowing.The grass surface has a special bumpy (like pillows) look and is typical of the variety.Used as a plant to cover squares, traffic islands and between stepping stones in paths. And not as grass in its classical sense. In the case of mowing, it should be mowed at a height of 3-5 cm. Resistance to moderate cold, manages in half shade. Its color is strong green.",
+      "image": "27.jpg",
+      "amount": 10
+    },
+    {
+      "id": "28",
+      "title": "Alon Hatavor- Ornamental trees",
+      "price": "40",
+      "description":"Deciduous shade tree grows wild in the country, low and very wide round view relative to its height." ,
+      "image": "28.jpg",
+      "amount": 10
+    },
+    {
+      "id": "29",
+      "title": "Japanese ligostrum- Ornamental trees",
+      "price": "40",
+      "description":"Japanese ligostrum is a large evergreen shrub that grows up to 5-4 feet tall and 2 feet wide. Its growth rate is fast. The foliage is dense and easy to grow. Its growth is dense and bushy, with a large number of branches emerging from the base of the plant.",
+      "image": "29.jpg",
+      "amount": 10
+    },
+    {
+      "id": "30",
+      "title": "Dolev Mizrahi- Ornamental trees",
+      "price": "40",
+      "description":"A deciduous large tree with a yellow fall appearance, with a primordial view",
+      "image": "30.jpg",
+      "amount": 10
+    },
+    {
+      "id": "31",
+      "title": "Canary Dragon (Draco)- Ornamental trees",
+      "price": "40",
+      "description":"Dragon is one of the most interesting looking plants among the ornamental plants in the country. The scarred stem that divides into branches dichotomously and creates a fungal landscape, and the narrow leaves carried at the ends of the young branches, give it a picturesque and special look",
+      "image": "31.jfif",
+      "amount": 10
+    },    
+    {
+      "id": "32",
+      "title": "Maple Truncate Tree View in Fall- Ornamental trees",
+      "price": "40",
+      "description":"A small tree, especially ornamental thanks to its bursting and shiny foliage, the fall colors and the prominent bloom in spring, which distinguishes it from all other maple species. It can also be designed in the form of a large, ornamental shrub. In China it is used as an important street tree.",
+      "image": "32.jpg",
+      "amount": 10
+    },
+    {
+      "id": "33",
+      "title": "Maple Truncate Tree View in Fall- Ornamental trees",
+      "price": "40",
+      "description":"",
+      "image": "33.jpg",
+      "amount": 10
+    },
+    {
+      "id": "34",
+      "title": "Mila obelisk- Ornamental trees",
+      "price": "40",
+      "description":"An ideal tree for planting on the sides of roads as due to its narrow view it will not exceed the road. Used to create a uniform look of spine trees. Wood for low maintenance.The picture shows the natural look of the tree without any pruning or treatment, combined with spruce trees of the green to other words type in an urban landscape in the country. The tree does not get auxiliary watering and is free of pests.",
+      "image": "34.png",
+      "amount": 10
+    },
+    {
+      "id": "35",
+      "title": "Mila Maya - Ornamental trees",
+      "price": "40",
+      "description":"Due to its relatively narrow landscape it will deviate slightly to the road and therefore its maintenance will be low. In addition, it is considered a non-polluting shade tree. The tree was chosen as one of the main ones for the light rail project in Jerusalem. In the photo: Mila Maya on the boulevard on the light rail in Jerusalem.",
+      "image": "35.jpg",
+      "amount": 10
+    },
+    {
+      "id": "36",
+      "title": "Pomegranate is found in `Wonderpool`- Fruits trees",
+      "price": "30",
+      "description":"A tall shade tree with a wide view, elongated and dark edible fruits of Mediterranean origin. Resistance to drought, near the sea frequent greenery to full sun.",
+      "image": "36.jpg",
+      "amount": 10
+    },
+    {
+      "id": "37",
+      "title": "Citrus Lemon 'Eureka'- Fruits trees",
+      "price": "33",
+      "description":"Frequent fruit tree A thornless vegetable with high fertility. Yields all year round: even in summer, especially in winter and late spring. The peel of the fruit is rich in essential oil glands. Buoyancy in a very sour yellowish tint with good taste, little fruit seeds.",
+      "image": "37.jpg",
+      "amount": 10
+    },
+    {
+      "id": "38",
+      "title": "Citrus Orange 'Valencia'- Fruits trees",
+      "price": "38",
+      "description":"Fruit tree to full sun. Very juicy fruit, with a thin skin. Late in the orange varieties: on the market from early March to July. Resistant to storage conditions",
+      "image": "38.jpg",
+      "amount": 10
+    },
+    {
+      "id": "39",
+      "title": "Citrus blood orange- Fruits trees",
+      "price": "39",
+      "description":"Frequent vegetable tree to be sun-filled with drained soil. Yields in January-February medium-small fruit with a peel and a red color",
+      "image": "39.jpg",
+      "amount": 10
+    },
+    {
+      "id": "40",
+      "title": "Japanese persimmon - Fruits trees",
+      "price": "47",
+      "description":"Deciduous tree with an upright-rounded view, red fall. Cold-resistant wood with edible sweet fruit.",
+      "image": "40.jpg",
+      "amount": 10
+    },
+    {
+      "id": "41",
+      "title": "Almond is found in Umm al-Fahm- Fruits trees",
+      "price": "33",
+      "description":"Deciduous tree with a spectacular spring bloom 'almonds' and a delicious fruit with a thin rind to the full sun with little watering.",
+      "image": "41.jpg",
+      "amount": 10
+    },
+    {
+      "id": "42",
+      "title": "Raspberry (Osna) prophesied- Fruits trees",
+      "price": "33",
+      "description":"Non-thorny climbing shrub, delicious black fruit for eating",
+      "image": "42.jpg",
+      "amount": 10
+    },
+    {
+      "id": "43",
+      "title": "Capri jug ARTEVASI company-Garden urns",
+      "price": "30",
+      "description":"Adding urns to an ornamental garden is one of the most common and popular ways to bounce and upgrade the look and design of the garden. In addition and alongside the uniform surfaces of natural grass, synthetic grass or strips incorporated with tuff,It is desirable to also incorporate garden pots in which we can not only decorate but also combine the best vegetation and diversify the look of the same corner in our garden.Classic round design.",
+      "image": "43.jpg",
+      "amount": 10
+    },
+    {
+      "id": "44",
+      "title": "High Porto jug ARTEVASI company -Garden urns",
+      "price": "30",
+      "description":"Adding urns to an ornamental garden is one of the most common and popular ways to bounce and upgrade the look and design of the garden. In addition and alongside the uniform surfaces of natural grass, synthetic grass or strips incorporated with tuff,It is desirable to also incorporate garden pots in which we can not only decorate but also combine the best vegetation and diversify the look of the same corner in our garden.Classic round design.High Porto jug - ARTEVASI company Round jug Conical design straight, narrow, high and modern.Comes in three sizes: 40cm, 50cm, 80cm.",
+      "image": "44.jpg",
+      "amount": 10
+    },
+    {
+      "id": "45",
+      "title": "Balconara planter with a stone look",
+      "price": "30",
+      "description":"This planter features the Lechuza Irrigation Kit that allows the plant to grow and bloom perfectly. The water reservoir that exists in the pot allows the pot to be watered once every 1-4 weeks, depending on the location (outdoor / indoor).",
+      "image": "45.jpg",
+      "amount": 10
+    },
+    {
+      "id": "46",
+      "title": "Carraro planter - LECHUZA company",
+      "price": "30",
+      "description":"A planter with a glossy or metallic finish With this planter you can create separation in large spaces by planting a large dense and tall plant volume. You can add a Lechuza irrigation kit that allows your plant to grow and bloom perfectly. The water reservoir that exists in the pot allows the plant to grow and develop optimally and water the pot only once every 1-4 weeks, depending on the location (outdoor / indoor). The irrigation system includes hidden wheels that allow the planter to move easily.",
+      "image": "46.jpg",
+      "amount": 10
+    },
+    {
+      "id": "47",
+      "title": "Delta planter - LECHUZA company",
+      "price": "30",
+      "description":"Size suitable for any space. Size 50 cm, glossy finish.Each planter is equipped with the Lechuza irrigation system that allows your plant to grow and flower perfectly. The water reservoir that exists in the pot allows the plant to grow and develop optimally and water the pot once every 2-4 weeks.",
+      "image": "47.jpg",
+      "amount": 10
+    }
+  ],
+  "GiftCardD": [
+    {
+      "id": "1g",
+      "title": "Flowers and chocolate",
+      "price": 30,
+      "image": "flowersChoclate.jpg",
+      "amount": 3,
+      "description": "Both delicious and beautiful !!"
+    },
+    {
+      "id": "2g",
+      "title": "Flower teddy bears",
+      "price": 70,
+      "image": "flowerbear.jpg",
+      "amount": 4,
+      "description": "it's so easy to please someone you love"
+    },
+    {
+      "id": "3g",
+      "title": "Upscale bouquet",
+      "price": 20,
+      "rating": " ",
+      "image": "flowers.jpg",
+      "amount": 6,
+      "description": "Both delicious and beautiful !!"
+    }
+  ]
+}

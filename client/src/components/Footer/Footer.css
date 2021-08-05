@@ -1,0 +1,28 @@
+.footer{
+    background-color: #6d2d58;
+    width: 100%; 
+    min-height: 200px;
+    color: whitesmoke;
+    position: static !important;
+    bottom: 0vh  !important;
+    margin-top: 57vh !important;
+    font-family: "Raleway-Medium";
+}
+.footer-top{
+    margin-top: auto;
+    background-color: #8f3b73;
+    min-height: 5vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+   
+}
+.footer-links{
+    width: 70%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly; 
+   
+}

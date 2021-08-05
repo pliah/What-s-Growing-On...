@@ -1,0 +1,39 @@
+
+.errors{
+    color: red;
+    font-size: 10px;
+    margin-top:3px;
+    font-family: "Raleway-Bold";
+}
+
+.all{
+    margin-top: 2%;
+    width: 60%;
+    margin-left: 20%;
+    padding-top: 4% !important;
+}
+.input-style{
+    padding-left: 50vw;
+}
+
+.btnlog{
+    width: 100%;
+    background-color: #6d2d58 !important;
+    color: white !important;
+    padding-left: 4vw !important;
+    padding-right: 4vw !important;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+    font-size: 25px;
+    border: 0px solid white;
+    margin-top: 2vw;
+}
+
+.btnlog:hover{
+    filter: brightness(90%);
+}
+.login-form{
+    width: max-content;
+    margin: auto;
+    padding-top: 4%;
+}

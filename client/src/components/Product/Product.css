@@ -1,0 +1,117 @@
+.rodal{
+    display: flex;
+    flex-direction: column;
+    max-height: 400px;
+    min-width: 100px;
+    margin:10px;
+    background-color: white;
+    z-index:1;
+    width: 30%;
+    padding: 20px;
+    justify-content: flex-end;
+    grid-column: span;
+    margin-top: 15%;
+}
+.product{
+    display: flex;
+    flex-direction: column;
+    margin:1vw;
+    background-color: white;
+    z-index:1;
+    width: 30%;
+    padding: 20px;
+    justify-content: flex-end;
+    grid-column: span;
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 20%);
+    font-family: "Raleway-Medium";  
+}
+.product-information{
+    height: 100px;
+    margin-bottom: 15px;
+}
+.product-price{
+    margin-top: 5px;
+}
+.product > img{
+    width: 100%;
+    max-height: 200px;
+    object-fit: contain;
+    margin-bottom: 15px;
+}
+.product-img{
+    width: 100%;
+    max-height: 200px;
+    object-fit: contain;
+    margin-bottom: 15px;
+} 
+.image-link{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+}
+.in-cart{    
+    background-color: #f0c14b;
+    border-color: #a88734 #9c7e31 #846a29;
+    padding-top: 0.5vw;
+    padding-bottom: 0.5vw;
+    border: 0px solid;
+}
+
+.in-cart:hover{
+    filter: brightness(90%);
+}
+.out-of-stock{
+    background-color:#d8d6d4;
+    padding-top: 0.5vw;
+    padding-bottom: 0.5vw;
+    border: 0px solid;
+     
+}
+.product-details{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-height: 96vh;
+}
+.product-price > button{
+    background-color: #f0c14b;
+    border: 0px solid;
+    border-color: #a88734 #9c7e31 #846a29;
+  
+}
+.btn-details{
+    background-color: #8f3b73;
+    color: white;
+    border: 0px solid;
+    border-color: #a88734 #9c7e31 #846a29;
+    width: 100%;
+    margin-bottom: 1vw;
+    margin-top: 1vw;
+    padding-top: 0.5vw;
+    padding-bottom: 0.5vw;
+}
+
+.btn-details:hover{
+    filter: brightness(90%);
+}
+.product-details img{
+    max-height: 100vh;
+    max-width: 46rem;
+    margin:0 auto;
+}
+.product-description{
+    flex: 1 1;
+    margin:1rem;
+
+}
+

@@ -1,0 +1,30 @@
+.checkout{
+    display: flex;
+    padding: 20px;
+    background-color: white;
+    height: max-content;
+}
+.shopping-items .checkout-title{
+    margin-right: 10px;
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+    font-family: 'Raleway-Bold';
+}
+.checkout-ad{
+    width: 100%;
+    margin-bottom: 10px;
+}
+.checkout-right{
+    position: relative;
+}
+.checkout{
+    font-family: "Raleway-Regular";
+   color:#8f3b73;
+    font-weight: bold;
+    background-image:url(../../image/background/רקע.jpg);
+    
+}
+.checkout-right {
+    position: relative;
+    width: 30%;
+}
