@@ -30,5 +30,6 @@ npm start
 ```
 
 ### Languages and Platforms
-This software uses the following open source packages:
+This software uses the following open source packages: 
+
 NodeJS, ReactJS, ExpressJS, MongoDB
