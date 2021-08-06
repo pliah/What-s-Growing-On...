@@ -9,7 +9,7 @@ perform a search of products by names and categories.
 In addition, there is the option to log in as a manager and confirm
 comments received as well as add new managers to the database. 
 
-### Description (l)
+### Description
 This project utilizes both react and node js to create a store application.
 React is used to render the front end (app) and renders on port 3000.
 Node js is used to create the back end 
@@ -29,9 +29,6 @@ npm install
 npm start
 ```
 
-### Packages
+### Languages and Platforms
 This software uses the following open source packages:
-- NodeJS
-- ReactJS
-- ExpressJS
-- MongoDB
+NodeJS, ReactJS, ExpressJS, MongoDB
